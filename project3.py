@@ -1,7 +1,5 @@
 """
- Name: Noemi Turner
- Class: CPSC 475
- Assignment: Project 3                                                                  
+ Name: Noemi Turner                                                               
  Description: This program modifies the eliza.py program. 
               This exercise helps us become more familiar with regular expressions.
 """
