@@ -1,5 +1,6 @@
 """
- Name: Noemi Turner                                                               
+ Name: Noemi Turner  
+ Filename: eliza.py
  Description: This program modifies the eliza.py program. 
               This exercise helps us become more familiar with regular expressions.
 """
@@ -7,7 +8,7 @@
 '''
 Simple Eliza program
 To execute:
-    >>csuser ->python3 project3.py
+    >>csuser ->python3 eliza.py
 '''
 
 import sys
